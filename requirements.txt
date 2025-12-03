@@ -1,0 +1,14 @@
+streamlit>=1.30.0
+torch>=2.0.0
+transformers>=4.38.0
+peft>=0.8.0
+accelerate>=0.27.0
+sentencepiece
+protobuf
+bitsandbytes>=0.43.0
+bert-score>=0.3.13
+rouge-score>=0.1.2
+nltk>=3.8
+pandas
+tqdm
+safetensors>=0.4.0
